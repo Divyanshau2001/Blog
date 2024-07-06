@@ -8,4 +8,4 @@ const conf = {
 
 
 
-export default config;
+export default conf;
